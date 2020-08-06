@@ -6,8 +6,10 @@
 
 ## 全探索:全列挙
 
-| No | TITLE                                                                                         | AC |
-|----|-----------------------------------------------------------------------------------------------|----|
-| 1  | [how many ways](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B&lang=ja)    | ○  |
-| 2  | [AtCoder Beginner Contest 106 B - 105](https://atcoder.jp/contests/abc106/tasks/abc106_b)     | ○  |
-| 3  | [AtCoder Beginner Contest 122 B - ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b) | ○  |
+| No | TITLE                                                                                                  | AC |
+|----|--------------------------------------------------------------------------------------------------------|----|
+| 1  | [how many ways](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B&lang=ja)             | ○  |
+| 2  | [AtCoder Beginner Contest 106 B - 105](https://atcoder.jp/contests/abc106/tasks/abc106_b)              | ○  |
+| 3  | [AtCoder Beginner Contest 122 B - ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b)          | ○  |
+| 4  | [パ研杯2019 C - カラオケ](https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c) | ○  |
+

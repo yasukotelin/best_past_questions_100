@@ -26,3 +26,15 @@
 | 9  | [JOI 2008 予選 4 - 星座探し](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_d)                                       | ○  |
 
 [たのしい探索アルゴリズムの世界【前編：全探索、bit全探索から半分全列挙まで】 - 全探索の工夫パターン 3 個](https://qiita.com/e869120/items/25cb52ba47be0fd418d6#2-4-%E5%85%A8%E6%8E%A2%E7%B4%A2%E3%81%AE%E5%B7%A5%E5%A4%AB%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-3-%E5%80%8B)
+
+## 全探索：ビット全探索
+
+| No | TITLE                                                                                                         | AC |
+|----|---------------------------------------------------------------------------------------------------------------|----|
+| 10 | [ALDS_5_A - 総当たり](https://atcoder.jp/contests/abc095/tasks/arc096_a)                                      |    |
+| 11 | [AtCoder Beginner Contest 128 C - Switches](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d)     |    |
+| 12 | [AtCoder Beginner Contest 002 D - 派閥](https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_c)              |    |
+| 13 | [JOI 2008 予選 5 - おせんべい](https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b)                             |    |
+| 14 | [Square869120Contest #4 B - Buildings are Colorful!](https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_d) |    |
+
+[たのしい探索アルゴリズムの世界【前編：全探索、bit全探索から半分全列挙まで】 - 3-1. bit 全探索](https://qiita.com/e869120/items/25cb52ba47be0fd418d6#3-1-bit-%E5%85%A8%E6%8E%A2%E7%B4%A2)
